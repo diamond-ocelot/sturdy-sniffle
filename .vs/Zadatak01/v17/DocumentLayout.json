@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marko\\Desktop\\Strukture Podataka i Algoritmi\\Domace Zadace\\Zadatak01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C99A18-1D32-4316-8308-C8318180930B}|Zadatak01\\Zadatak01.vcxproj|C:\\Users\\marko\\Desktop\\Strukture Podataka i Algoritmi\\Domace Zadace\\Zadatak01\\Zadatak01\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0C99A18-1D32-4316-8308-C8318180930B}|Zadatak01\\Zadatak01.vcxproj|solutionrelative:Zadatak01\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\marko\\Desktop\\Strukture Podataka i Algoritmi\\Domace Zadace\\Zadatak01\\Zadatak01\\FileName.cpp",
+              "RelativeDocumentMoniker": "Zadatak01\\FileName.cpp",
+              "ToolTip": "C:\\Users\\marko\\Desktop\\Strukture Podataka i Algoritmi\\Domace Zadace\\Zadatak01\\Zadatak01\\FileName.cpp",
+              "RelativeToolTip": "Zadatak01\\FileName.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-24T21:23:30.32Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
